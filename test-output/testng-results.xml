@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26167" started-at="2017-08-19T13:44:14Z" finished-at="2017-08-19T13:44:40Z">
+    <groups>
+    </groups>
+    <test name="Test2" duration-ms="26167" started-at="2017-08-19T13:44:14Z" finished-at="2017-08-19T13:44:40Z">
+      <class name="traco.automation.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:traco.automation.NewTest@48eff760]" name="beforeTest" is-config="true" duration-ms="11180" started-at="2017-08-19T19:14:14Z" finished-at="2017-08-19T19:14:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:traco.automation.NewTest@48eff760]" name="f" duration-ms="14350" started-at="2017-08-19T19:14:25Z" finished-at="2017-08-19T19:14:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:traco.automation.NewTest@48eff760]" name="afterTest" is-config="true" duration-ms="611" started-at="2017-08-19T19:14:39Z" finished-at="2017-08-19T19:14:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- traco.automation.NewTest -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
